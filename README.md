@@ -3,16 +3,16 @@ Some Scratch projects. Ranges from an implementation of air resistance, gravitat
 
 Here is a base conversion, from ZZ\\36 to hex.
 
-![screenshot](https://github.com/elterminad0r/scratch/blob/master/screenshots/base_conversion.png)
+![screenshot](https://github.com/goedel-gang/scratch/blob/master/screenshots/base_conversion.png)
 
 Here it's performed a mergesort on the prime numbers:
 
-![screenshot](https://github.com/elterminad0r/scratch/blob/master/screenshots/mergesort.png)
+![screenshot](https://github.com/goedel-gang/scratch/blob/master/screenshots/mergesort.png)
 
 Here is a static snapshot of pong:
 
-![screenshot](https://github.com/elterminad0r/scratch/blob/master/screenshots/pong.png)
+![screenshot](https://github.com/goedel-gang/scratch/blob/master/screenshots/pong.png)
 
 Here is a multicoloured sierpinski's gasket:
 
-![screenshot](https://github.com/elterminad0r/scratch/blob/master/screenshots/sierp.png)
+![screenshot](https://github.com/goedel-gang/scratch/blob/master/screenshots/sierp.png)
